@@ -10,4 +10,5 @@ see ya :p
 Note: This will run on linux only. If you are using kali linux, the wordlists are located at /usr/share/wordlists
 
 sample md5 hash: 21232f297a57a5a743894a0e4a801fc3
+
 wordlist path: /usr/share/wordlists/dirb/common.txt
