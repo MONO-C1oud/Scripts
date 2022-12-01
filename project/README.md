@@ -12,3 +12,8 @@ Note: This will run on linux only. If you are using kali linux, the wordlists ar
 sample md5 hash: 21232f297a57a5a743894a0e4a801fc3
 
 wordlist path: /usr/share/wordlists/dirb/common.txt
+
+contributors:
+  21k-4779  Muhammad Taha Qaiser
+  21K-3564  Rameel Saleem Subzwari
+  21K-4772  Osama Irfan
